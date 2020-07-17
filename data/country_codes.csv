@@ -7,7 +7,7 @@ American Samoa,ASM
 Andorra,AND
 Angola,AGO
 Anguilla,AIA
-Antigua and Barbuda,ATG
+Antigua And Barbuda,ATG
 Argentina,ARG
 Armenia,ARM
 Aruba,ABW
@@ -25,7 +25,7 @@ Benin,BEN
 Bermuda,BMU
 Bhutan,BTN
 Bolivia,BOL
-Bosnia and Herzegovina,BIH
+Bosnia And Herzegovina,BIH
 Botswana,BWA
 Brazil,BRA
 British Virgin Islands,VGB
@@ -43,21 +43,24 @@ Chad,TCD
 Chile,CHL
 China,CHN
 Christmas Island,CXR
-Hong Kong Special Administrative Region,HKG
-Macau Special Administrative Region,MAC
+"Hong Kong Special Administrative
+Region",HKG
+"Macau Special Administrative
+Region",MAC
+Cocos Islands,CCK
 Colombia,COL
 Comoros,COM
-Congo,COG
+"Congo, Republic Of The",COG
 Cook Islands,COK
 Costa Rica,CRI
-Cote d'Ivoire,CIV
+Cote D'Ivoire,CIV
 Croatia,HRV
 Cuba,CUB
 Curacao,CUW
 Cyprus,CYP
 Czech Republic,CZE
 North Korea,PRK
-Democratic Republic of the Congo,COD
+"Congo, Democratic Republic Of The",COD
 Denmark,DNK
 Djibouti,DJI
 Dominica,DMA
@@ -76,7 +79,8 @@ Finland,FIN
 France,FRA
 French Guiana,GUF
 French Polynesia,PYF
-French Southern and Antarctic Lands,ATF
+"French Southern And Antarctic
+Lands",ATF
 Gabon,GAB
 Gambia,GMB
 Georgia,GEO
@@ -138,7 +142,7 @@ Mauritania,MRT
 Mauritius,MUS
 Mayotte,MYT
 Mexico,MEX
-"Micronesia, Federated States of",FSM
+Federated States Of Micronesia,FSM
 Moldova,MDA
 Monaco,MCO
 Mongolia,MNG
@@ -146,7 +150,7 @@ Montenegro,MNE
 Montserrat,MSR
 Morocco,MAR
 Mozambique,MOZ
-Myanmar,MMR
+Burma,MMR
 Namibia,NAM
 Nauru,NRU
 Nepal,NPL
@@ -182,20 +186,21 @@ Russia,RUS
 Rwanda,RWA
 Saint Barthelemy,BLM
 Saint Helena,SHN
-Saint Kitts and Nevis,KNA
+Saint Kitts And Nevis,KNA
 Saint Lucia,LCA
 Saint Martin,MAF
-Saint Pierre and Miquelon,SPM
-Saint Vincent and the Grenadines,VCT
+St. Pierre And Miquelon,SPM
+Saint Vincent And The Grenadines,VCT
 Samoa,WSM
 San Marino,SMR
-Sao Tome and Principe,STP
+Sao Tome And Principe,STP
 Saudi Arabia,SAU
 Senegal,SEN
 Serbia,SRB
 Seychelles,SYC
 Sierra Leone,SLE
 Singapore,SGP
+Sint Maarten,SXM
 Slovakia,SVK
 Slovenia,SVN
 Solomon Islands,SLB
@@ -219,7 +224,7 @@ Timor-Leste,TLS
 Togo,TGO
 Tokelau,TKL
 Tonga,TON
-Trinidad and Tobago,TTO
+Trinidad And Tobago,TTO
 Tunisia,TUN
 Turkey,TUR
 Turkmenistan,TKM
@@ -238,7 +243,7 @@ Vanuatu,VUT
 Venezuela,VEN
 Vatican City,VAT
 Viet Nam,VNM
-Wallis and Futuna,WLF
+Wallis And Futuna,WLF
 Western Sahara,ESH
 Yemen,YEM
 Zambia,ZMB
